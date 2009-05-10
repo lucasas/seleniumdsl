@@ -263,13 +263,6 @@
 					</execution>
 				</executions>
 			</plugin>
-			<plugin>
-				<groupId>org.mortbay.jetty</groupId>
-				<artifactId>jetty-maven-plugin</artifactId>
-				<version>7.0.0.pre5</version>
-				<configuration>
-				</configuration>
-			</plugin>
 		</plugins>
 	</build>
 	<profiles>
